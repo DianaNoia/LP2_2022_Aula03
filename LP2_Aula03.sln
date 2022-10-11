@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityManager3", "CityManager3\CityManager3.csproj", "{06A32C5C-558E-45A6-8D08-8EFB53F5D8F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingCollections", "BuildingCollections\BuildingCollections.csproj", "{44055895-4B8A-429C-B2D9-B57400A49076}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{06A32C5C-558E-45A6-8D08-8EFB53F5D8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06A32C5C-558E-45A6-8D08-8EFB53F5D8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06A32C5C-558E-45A6-8D08-8EFB53F5D8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44055895-4B8A-429C-B2D9-B57400A49076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44055895-4B8A-429C-B2D9-B57400A49076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44055895-4B8A-429C-B2D9-B57400A49076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44055895-4B8A-429C-B2D9-B57400A49076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
